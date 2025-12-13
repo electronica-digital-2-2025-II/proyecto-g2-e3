@@ -30,6 +30,9 @@ El informe en formato IEEE debidamente documentado se encuentra en este reposito
 ## Implementación
 
 <!-- Video explicativo del funcionamiento del proytecto -->
+
+## Lista de anexos
+
 A continuacion el codigo en C para el funcionamiento del video:
 
 NO OLVIDAR AGREGAR EL ARCHIVO .C Y .H EN LA CARPETA SCR Y REFERENCIARLA EN EL LINK
