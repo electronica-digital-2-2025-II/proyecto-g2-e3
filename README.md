@@ -24,7 +24,7 @@ El proyecto consiste en una estructura impresa en 3D que sirve como dispensador 
 
 ## Informe
 El informe en formato IEEE debidamente documentado se encuentra en este repositorio, pudiendo acceder a el desde el siguiente link:
-[Informe final del  proyecto](/scr/entrega_final)
+[Informe final del  proyecto](/scr/entrega_final.pdf)
 <!-- Link que permita acceder al Informe, el cual debe estar subido a este repositorio -->
 
 ## Implementación
@@ -45,7 +45,7 @@ Para la ID o direcciones de memoria, se tiene el siguiente archivo .h:
 
 Finalmente el block desing creado en vivado
 
-[Block desing](/scr/block_desing)
+[Block desing](/scr/block_desing.pdf)
 
 
 <!-- CREAR UN DIRECTORIO CON EL NOMBRE "src" DONDE INVLUYAN LAS FUENTE (.c Y .h) QUE CREARON PARA EL PROOYECTO-->
