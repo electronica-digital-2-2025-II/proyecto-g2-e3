@@ -31,6 +31,10 @@ El informe en formato IEEE debidamente documentado se encuentra en este reposito
 
 <!-- Video explicativo del funcionamiento del proytecto -->
 
+
+https://github.com/user-attachments/assets/763ca60c-848d-46e7-aa30-3e90262c94ad
+
+
 ## Lista de anexos
 
 A continuacion el codigo en C para el funcionamiento del video:
